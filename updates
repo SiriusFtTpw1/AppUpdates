@@ -7,11 +7,11 @@
     "appUrl":""
    },
 "relax":{
-    "version":1,
+    "version":2,
     "force":false,
-    "title":"",
-    "description":"",
-    "appUrl":"",
+    "title":"Update ရပါပြီ",
+    "description":"ပိုမိုကောင်းမွန်သောအောကားများနဲ့ ပိုမိုများပြားသောchannelများထည့်သွင်းထားပါတယ် စိတ်ကြိုက်free unlimitedlyကြည့်ဖို့ ယခူပဲဒေါင်းလိုက်ပါ",
+    "appUrl":"https://www.mediafire.com/file/exya3wk05palzsk/relax_premium_v2.apk/file",
     "launchCount":6
    } 
 }
